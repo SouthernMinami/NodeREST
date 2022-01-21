@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SouthernMinami/NodeREST/issues"
   },
-  "homepage": "https://github.com/SouthernMinami/NodeREST#readme"
+  "homepage": "https://github.com/SouthernMinami/NodeREST#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
